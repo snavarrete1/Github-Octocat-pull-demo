@@ -15,9 +15,19 @@
     Octocat, part cat, part octopus character in the 2010 animated series Spliced
     <br>
     Octocat Adventure, five-part animated video by filmmaker David O'Reilly</p>
-Collapse
 
-
+</div>
+    <div>
+        <h1> More Octocat Goodness</h1>
+        <ul>
+            <li>A Cat mixed with with a Octopus</li>
+            <li>Github's Mascot</li>
+            <li>Comes in many shapes and sizes</li>
+        </ul>
+        </h1>
+    </div>
+</body>
+</html>
 
 
 
